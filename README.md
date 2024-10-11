@@ -2,6 +2,10 @@
 
 Atualmente sou estudante de Engenharia de Software na Universidade do Estado de Santa Catarina
 
+Formações:
+
+🎓Técnico em Informática - IFC Campus Ibirama - 2022
+
 Tecnologias que possuo experiência:
 
 
