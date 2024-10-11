@@ -2,7 +2,7 @@
 
 Atualmente sou estudante de Engenharia de Software na Universidade do Estado de Santa Catarina
 
-Linguagens que possuo conhecimento:
+Tecnologias que possuo experiência:
 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
