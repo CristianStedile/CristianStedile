@@ -44,6 +44,30 @@
 
 <img 
   align="left" 
+  alt="Notion"
+  title="Notion" 
+  width="30px" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"
+/>
+
+<img 
+  align="left" 
+  alt="Figma"
+  title="Figma" 
+  width="30px" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+/>
+
+<img 
+  align="left" 
+  alt="Opera"
+  title="Opera" 
+  width="30px" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opera/opera-original.svg"
+/>
+
+<img 
+  align="left" 
   alt="Java"
   title="Java" 
   width="30px" 
@@ -80,38 +104,6 @@
   title="Css" 
   width="30px" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
-
-<img 
-  align="left" 
-  alt="Figma"
-  title="Figma" 
-  width="30px" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
-/>
-
-<img 
-  align="left" 
-  alt="Jetbrains"
-  title="Jetbrains" 
-  width="30px" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg"
-/>
-
-<img 
-  align="left" 
-  alt="Notion"
-  title="Notion" 
-  width="30px" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"
-/>
-
-<img 
-  align="left" 
-  alt="Opera"
-  title="Opera" 
-  width="30px" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opera/opera-original.svg"
 />
 
 ###
